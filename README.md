@@ -21,8 +21,13 @@ Certificates #1             |  Certificates #2
 <p align="center"/>
 </p>
 
-You can see more certificates here.
-![](https://github.com/cuteOlaf/Certificates/
+You can see more certificates here. (https://github.com/cuteOlaf/Certificates/)
+
+**Some of my previous projects**
+
+https://sokkerpro.com
+https://hashgreed.com
+https://web3-platform.vercel.app
 
 
 
