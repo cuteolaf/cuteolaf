@@ -35,4 +35,4 @@ https://web3-platform.vercel.app
 
 <h2>⚡ Github Info</h2>
 
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cuteolaf&bg_color=tr
+<p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cuteOlaf&bg_color=tr
