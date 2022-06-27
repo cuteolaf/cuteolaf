@@ -23,13 +23,13 @@ Certificates #1             |  Certificates #2
 
 You can see more certificates here. (https://github.com/cuteOlaf/Certificates/)
 
-**Some of my previous projects**
+<h2>Some of my previous projects</h2>
 
-https://sokkerpro.com
+SokkerPro(https://sokkerpro.com)
 
-https://hashgreed.com
+Hashgreed(https://hashgreed.com)
 
-https://web3-platform.vercel.app
+Web3 event ticketing platform(https://web3-platform.vercel.app)
 
 
 
