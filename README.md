@@ -26,7 +26,9 @@ You can see more certificates here. (https://github.com/cuteOlaf/Certificates/)
 **Some of my previous projects**
 
 https://sokkerpro.com
+
 https://hashgreed.com
+
 https://web3-platform.vercel.app
 
 
