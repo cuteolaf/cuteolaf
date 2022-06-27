@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+</h2>
 
-<!--
-**cuteOlaf/cuteOlaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align='center'>
+  Blockchain | FullStack Engineer
+</h4>
 
-Here are some ideas to get you started:
+<h2>🧑 About me </h2>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;It's easy to find people promising everything and delivering almost nothing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;So I am not a pure geek thinking about technology only but, first, a <b>making-things-happen</b> person.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🥇 Certificates</h2>
+
+
+Certificates #1             |  Certificates #2
+:-------------------------:|:-------------------------:
+![](https://github.com/cuteOlaf/Certificates/blob/master/HackerRank-Problem%20Solving(Intermediate).png)  |  ![](https://github.com/cuteOlaf/Certificates/blob/master/HackerRank-Javascript(Intermediate).png)
+<p align="center"/>
+</p>
+
+You can see more certificates here.
+![](https://github.com/cuteOlaf/Certificates/
+
+
+
+<h2>⚡ Github Info</h2>
+
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cuteolaf&bg_color=tr
