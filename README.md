@@ -1,38 +1,46 @@
-<h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-</h2>
+<h1>👋 I'm Oliver</h1>
 
-<h4 align='center'>
-  Blockchain | FullStack Engineer
-</h4>
+- **Who am I?**
+    - [Rust/Substrate engineer](https://courses.edx.org/certificates/0056c3b6e66645f38a377635cdc13cbe)
+    - Full Stack Blockchain Developer
+    - [Competitive Programmer](https://www.codechef.com/users/cuteolaf)
 
-<h2>🧑 About me </h2>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;It's easy to find people promising everything and delivering almost nothing.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;So I am not a pure geek thinking about technology only but, first, a <b>making-things-happen</b> person.</p>
+- **Skills**
+    
+    `C/++, Rust, Java, Javascript, Typescript, Solidity, ink!`
+    
+    `React, Next.js, Postgresql, Node.js, Express.js`
+    
+    `Web3.js, Ethers.js, Subgraph`
+    
+    ...
 
-<h2>🥇 Certificates</h2>
+- **I am actively learning Substrate and contributing to open source projects**
+    - [Fair Squares](https://fair-squares.nl)
+        - [Fair Squares Node](https://github.com/fair-squares/fair-squares)
+        - [Fair Squares dApp](https://github.com/fair-squares/fs-dapp)
+        - [Fair Squares Doc](https://docs.fair-squares.nl)
+    - [Imbue Network](https://www.imbue.network)
+        - [Imbue Collabor](https://github.com/imbuenetwork/imbue)
+        - [Imbue Enterprise - A freelance marketplace 👷‍♂️](https://github.com/imbuenetwork/dapp)
+    - [ParityTech](https://github.com/paritytech)
+        - [ZomebieNet](https://github.com/paritytech/zombienet/commits?author=cuteolaf)
+        - [Parity Bridgs Common](https://github.com/paritytech/parity-bridges-common/commits?author=cuteolaf)
+        - [Substrate](https://github.com/paritytech/substrate/commits?author=cuteolaf)
+    - [Substrate Docs](https://github.com/substrate-developer-hub/substrate-docs/commits?author=cuteolaf)
+    - ...
 
-
-Certificates #1             |  Certificates #2
-:-------------------------:|:-------------------------:
-![](https://github.com/cuteOlaf/Certificates/blob/master/HackerRank-Problem%20Solving(Intermediate).png)  |  ![](https://github.com/cuteOlaf/Certificates/blob/master/HackerRank-Javascript(Intermediate).png)
-<p align="center"/>
-</p>
-
-You can see more certificates here. (https://github.com/cuteOlaf/Certificates/)
-
-<h2>Some of my previous projects</h2>
-
-SokkerPro(https://sokkerpro.com)
-
-Hashgreed(https://hashgreed.com)
-
-Web3 event ticketing platform(https://web3-platform.vercel.app)
-
-
-
-<h2>⚡ Github Info</h2>
-
-<p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cuteOlaf&bg_color=tr
+- **Portfolio projects**
+    - React, Web3
+        - [SokkerPro](https://sokkerpro.com)
+        - [Hashgreed](https://hashgreed.com)
+    - Substrate dApp
+        - [Fair Squares UI](https://fair-squares.github.io/fs-dapp/)
+        - [Imbue Network](https://staging.imbue.network/dapp)
+    - Rust & Substrate
+        - [ink! smart contracts](https://github.com/cuteolaf/posts-ink)
+        
+            ```how to write ink! smart contracts and deploy them```
+        - [Substrate-crash-course](https://github.com/cuteolaf/substrate-learning-resources)
+            
+            ```my curated list of resources to learn Substrate```
