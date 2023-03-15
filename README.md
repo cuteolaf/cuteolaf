@@ -11,7 +11,7 @@
 - Substrate, Polkadot, Kusama, Polkadot.js
     
 
-## **I am actively learning Substrate and contributing to open source projects**
+## **💙Rust, Substrate, Polkadot**
 - [Fair Squares](https://fair-squares.nl)
     - [Fair Squares Node](https://github.com/fair-squares/fair-squares)
     - [Fair Squares dApp](https://github.com/fair-squares/fs-dapp)
@@ -35,8 +35,6 @@
     - [Imbue Network](https://staging.imbue.network/dapp)
 - Rust & Substrate
     - [ink! smart contracts](https://github.com/cuteolaf/posts-ink)
-
         ```how to write ink! smart contracts and deploy them```
     - [Substrate-crash-course](https://github.com/cuteolaf/substrate-learning-resources)
-
         ```my curated list of resources to learn Substrate```
