@@ -38,3 +38,5 @@
         ```how to write ink! smart contracts and deploy them```
     - [Substrate-crash-course](https://github.com/cuteolaf/substrate-learning-resources)
         ```my curated list of resources to learn Substrate```
+## Wanna have a chat?
+Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf) or Discord(cuteolaf#3190)
