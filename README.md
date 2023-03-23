@@ -30,6 +30,7 @@
 - React, Web3
     - [SokkerPro](https://sokkerpro.com)
     - [Hashgreed](https://hashgreed.com)
+    - [Gotchiverse - NFT P2E Game](https://verse.aavegotchi.com)
 - Substrate dApp
     - [Fair Squares UI](https://fair-squares.github.io/fs-dapp/)
     - [Imbue Network](https://staging.imbue.network/dapp)
