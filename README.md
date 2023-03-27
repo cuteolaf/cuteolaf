@@ -34,6 +34,7 @@
 - Substrate dApp
     - [Fair Squares UI](https://fair-squares.github.io/fs-dapp/)
     - [Imbue Network](https://staging.imbue.network/dapp)
+    - [Tao Validators Staking](https://staking.tao-validator.com/)
 - Rust & Substrate
     - [ink! smart contracts](https://github.com/cuteolaf/posts-ink)
         ```how to write ink! smart contracts and deploy them```
