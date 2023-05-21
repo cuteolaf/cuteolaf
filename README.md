@@ -17,13 +17,14 @@
     - [Fair Squares dApp](https://github.com/fair-squares/fs-dapp)
     - [Fair Squares Doc](https://docs.fair-squares.nl)
 - [Imbue Network](https://www.imbue.network)
-    - [Imbue Collabor](https://github.com/imbuenetwork/imbue)
+    - [Imbue Runtime](https://github.com/imbuenetwork/imbue)
     - [Imbue Enterprise - A freelance marketplace 👷‍♂️](https://github.com/imbuenetwork/dapp)
 - [ParityTech](https://github.com/paritytech)
     - [ZomebieNet](https://github.com/paritytech/zombienet/commits?author=cuteolaf)
     - [Parity Bridgs Common](https://github.com/paritytech/parity-bridges-common/commits?author=cuteolaf)
     - [Substrate](https://github.com/paritytech/substrate/commits?author=cuteolaf)
 - [Substrate Docs](https://github.com/substrate-developer-hub/substrate-docs/commits?author=cuteolaf)
+- [Opentensor Network](https://github.com/opentensor/subtensor)
 - ...
 
 ## **Portfolio projects**
