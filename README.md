@@ -13,7 +13,7 @@
     
 
 ## **💙Rust, Substrate, Polkadot**
-- [Fair Squares](https://fair-squares.nl)
+- [Fair Squares](https://www.fair-squares.nl/)
     - [Fair Squares Node](https://github.com/fair-squares/fair-squares)
     - [Fair Squares dApp](https://github.com/fair-squares/fs-dapp)
     - [Fair Squares Doc](https://docs.fair-squares.nl)
