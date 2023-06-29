@@ -9,6 +9,7 @@
 - React, Next.js, Postgresql, Node.js, Express.js
 - Web3.js, Ethers.js
 - Substrate, Polkadot, Kusama, Polkadot.js
+- ...
     
 
 ## **💙Rust, Substrate, Polkadot**
@@ -17,8 +18,11 @@
     - [Fair Squares dApp](https://github.com/fair-squares/fs-dapp)
     - [Fair Squares Doc](https://docs.fair-squares.nl)
 - [Imbue Network](https://www.imbue.network)
-    - [Imbue Runtime](https://github.com/imbuenetwork/imbue)
-    - [Imbue Enterprise - A freelance marketplace 👷‍♂️](https://github.com/imbuenetwork/dapp)
+    - [🚧 Imbue Runtime 🚧](https://github.com/imbuenetwork/imbue)
+    - [🚧 Imbue Enterprise - A freelance marketplace 🚧](https://github.com/imbuenetwork/imbue-frontend)
+- [TheDotFlow](https://github.com/w3f/Grants-Program/blob/master/applications/Dotflow.md)
+    - [Dotflow ink! smart contracts](https://github.com/TheDotflow/dotflow-ink)
+    - [Dotflow UI](https://github.com/TheDotflow/dotflow-ui)
 - [ParityTech](https://github.com/paritytech)
     - [ZomebieNet](https://github.com/paritytech/zombienet/commits?author=cuteolaf)
     - [Parity Bridgs Common](https://github.com/paritytech/parity-bridges-common/commits?author=cuteolaf)
@@ -34,12 +38,10 @@
     - [Gotchiverse - NFT P2E Game](https://verse.aavegotchi.com)
 - Substrate dApp
     - [Fair Squares UI](https://fair-squares.github.io/fs-dapp/)
-    - [Imbue Network](https://staging.imbue.network/dapp)
+    - [Imbue Network](https://staging.imbue.network/)
     - [Tao Validators Staking](https://staking.tao-validator.com/)
-- Rust & Substrate
-    - [ink! smart contracts](https://github.com/cuteolaf/posts-ink)
-        ```how to write ink! smart contracts and deploy them```
-    - [Substrate-crash-course](https://github.com/cuteolaf/substrate-learning-resources)
-        ```my curated list of resources to learn Substrate```
+    - [Taostats Delegation UI](https://delegate.taostats.io/)
+    - [Batch Tx Sender on BitTensor network](https://batch.tao-validator.com/)
+    - [Supersig UI](https://github.com/decentration/supersig-ui/commits?author=cuteolaf)
 ## Wanna have a chat?
-Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf) or Discord(cuteolaf#3190)
+Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf) or Discord(cute0laf)
