@@ -44,4 +44,4 @@
     - [Batch Tx Sender on BitTensor network](https://batch.tao-validator.com/)
     - [Supersig UI](https://github.com/decentration/supersig-ui/commits?author=cute0laf)
 ## Wanna have a chat?
-Please feel free to reach out to me on [Telegram](https://t.me/cute0laf) or Discord(cute0laf)
+Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf) or Discord(cute0laf)
