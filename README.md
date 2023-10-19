@@ -5,9 +5,7 @@
 
 ## **Skills**
     
-- C/C++, Rust, Java, Javascript, Typescript, Solidity, ink!
-- React, Next.js, Postgresql, Node.js, Express.js
-- Web3.js, Ethers.js
+- Rust, Javascript, Typescript, Solidity, ink!
 - Substrate, Polkadot, Kusama, Polkadot.js
 - ...
     
