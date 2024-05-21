@@ -41,5 +41,7 @@
     - [Taostats Delegation UI](https://delegate.taostats.io/)
     - [Batch Tx Sender on BitTensor network](https://batch.tao-validator.com/)
     - [Supersig UI](https://github.com/decentration/supersig-ui/commits?author=cuteolaf)
+    - [Corehub](https://app.regionx.tech/)
+    - [Dotflow](https://www.dotflow-app.com/)
 ## Wanna have a chat?
-Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf) or Discord(cute0laf)
+Please feel free to reach out to me on [Telegram](https://t.me/cuteolaf2) or Discord(cute0laf)
