@@ -28,3 +28,7 @@
 - Email: `oliverlim818@gmail.com`
 - Telegram: `cuteolaf2`
 - Discord: `cute0laf`
+
+⚠️ Please beware of scammers
+
+Scammers may be impersonating me using my GitHub profile. Always verify Discord, Telegram, or email contacts with the ones listed in the Contacts section of this profile. Stay cautious and report any suspicious activity!
