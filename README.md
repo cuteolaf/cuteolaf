@@ -40,32 +40,6 @@ Senior Blockchain Engineer with 5+ years specializing in **Rust, Substrate, and 
 - **Substrate Core** – Contributions to blockchain framework
 - **Substrate Docs** – Documentation improvements
 
----
-
-## 🛠️ Technical Expertise
-
-**Blockchain Core (Production Experience)**
-- **Rust/Substrate**: 5+ years, parachain development, custom pallets, runtime upgrades
-- **Polkadot Ecosystem**: XCM, cross-chain, governance, treasury, Coretime
-- **ink! Smart Contracts**: W3F-granted projects, production implementations
-- **Ethereum/Solidity**: DeFi protocols (Opyn), NFT platforms (Pixelcraft)
-
-**Full-Stack Development**
-- **Frontend**: React, Next.js, TypeScript, Polkadot.js, Tailwind CSS
-- **Backend**: Node.js, Django, Express, REST APIs, WebSocket
-- **Data/Infrastructure**: SubQuery, PostgreSQL, MongoDB, Grafana, Docker
-- **Testing**: Comprehensive suites, Cypress, Hardhat, Rust testing
-
-**Leadership & Delivery**
-- Managed teams of 4+ engineers, accelerated release cycles by 40%
-- Translated product vision into production systems (Taostats, RegionX)
-- Cross-functional collaboration, API design, database schema optimization
-- Security-first development, smart contract audits, protocol design
-
-
----
-
-
 ## 📫 Let's Connect
 
 **Professional Contact:**
