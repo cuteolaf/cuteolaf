@@ -1,15 +1,6 @@
-# 👋 Oliver Lim | Senior Blockchain Engineer
+# 👋 I'm Oliver
 
 > **Rust • Substrate • Polkadot Expert** | 5+ years in blockchain | 4x Web3 Foundation Grantee | Production-Scale Web3 Infrastructure
-
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Substrate](https://img.shields.io/badge/Substrate-DD3600?style=for-the-badge&logo=paritysubstrate&logoColor=white)
-![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
-![Production](https://img.shields.io/badge/Production%20Scale-10K%2B%20Users-blue?style=for-the-badge)
-![W3F Grants](https://img.shields.io/badge/W3F%20Grants-4%20Projects-success?style=for-the-badge)
-![Data Scale](https://img.shields.io/badge/Data-2M%2Fday-orange?style=for-the-badge)
-![Parity](https://img.shields.io/badge/Parity%20Contributor-Core%20Infra-purple?style=for-the-badge)
 
 ---
 
@@ -71,42 +62,9 @@ Senior Blockchain Engineer with 5+ years specializing in **Rust, Substrate, and 
 - Cross-functional collaboration, API design, database schema optimization
 - Security-first development, smart contract audits, protocol design
 
----
-
-## 📈 Impact & Scale
-
-**Metrics from Production Systems:**
-- **2,000,000+** daily records processed (Bittensor)
-- **99.8%** system uptime in production environments
-- **10,000+** monthly active users (Taostats)
-- **500,000+** daily transactions indexed
-- **40%** query performance improvement through optimization
-- **25%** infrastructure cost reduction
-- **70%** reduction in production incidents
-- **4** successful Web3 Foundation grant projects
-
-**Key Achievements:**
-- Secured Kusama parachain slot via community treasury (no external funding)
-- Built first production reference for Polkadot 2.0 Coretime
-- Contributor to core ParityTech infrastructure (ZombieNet, Bridges)
-- Developed high-performance data pipelines with 99.5% accuracy
 
 ---
 
-## 💼 Experience Highlights
-
-**Current & Recent Roles:**
-- **Senior Backend Engineer @ Bittensor.ai** (2025) – 2M+ records/day data infrastructure
-- **Core Protocol Engineer @ RegionX** (2023-2024) – Polkadot 2.0 marketplace
-- **Technical Product Lead @ Taostats** (2023-2024) – 10K+ MAU block explorer
-- **Senior Developer @ Imbue Network** (2022-2023) – Kusama parachain
-
-**Previous Leadership:**
-- **Lead Blockchain Developer/CTO @ VineKross** – Multi-product DeFi/NFT platform
-- **Senior Blockchain Engineer @ Blockchains** – Digital asset management systems
-- **Blockchain Developer @ Opyn** – DeFi options with millions in TVL
-
----
 
 ## 📫 Let's Connect
 
@@ -132,12 +90,6 @@ Senior Blockchain Engineer with 5+ years specializing in **Rust, Substrate, and 
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cuteolaf&theme=github-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity)
-
-**Pinned Repositories:**
-- [Fair Squares Node](https://github.com/fair-squares/fair-squares)
-- [Imbue Runtime](https://github.com/imbuenetwork/imbue)
-- [Dotflow ink! Contracts](https://github.com/TheDotFlow/dotflow-ink)
-- [RegionX Parachain](https://github.com/RegionX-Labs/RegionX-Node)
 
 ---
 
