@@ -1,6 +1,6 @@
 # 👋 I'm Oliver
 
-> **Rust • Substrate • Polkadot Expert** | 5+ years in blockchain | 4x Web3 Foundation Grantee | Production-Scale Web3 Infrastructure
+> **Rust • Substrate • Polkadot Expert** | 7+ years in blockchain | 4x Web3 Foundation Grantee | Production-Scale Web3 Infrastructure
 
 ---
 
@@ -45,7 +45,7 @@ Senior Blockchain Engineer with 5+ years specializing in **Rust, Substrate, and 
 **Professional Contact:**
 - 📧 **Email**: oliverlim818@gmail.com
 - 💬 **Telegram**: @cuteolaf2
-- 🎮 **Discord**: cute0laf
+- 🎮 **Discord**: cute01af
 
 **What I'm Looking For:**
 - Building next-generation blockchain infrastructure
@@ -58,15 +58,3 @@ Senior Blockchain Engineer with 5+ years specializing in **Rust, Substrate, and 
 ## ⚠️ Security Notice
 
 > **Always verify contacts through this README.** I will **never** DM you first asking for funds, investments, or sensitive information. Scammers may impersonate me – stay cautious and report suspicious activity.
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cuteolaf&theme=github-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity)
-
----
-
-*"Building the decentralized future, one block at a time."*
-
-*Last Updated: December 2025*
